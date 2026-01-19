@@ -3,7 +3,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class timeRequiredToBuy {
+public class timeRequiredToBuy_2073 {
     public int Solution(int[] tickets,int k){
         Queue<Integer> queue = new LinkedList<>();
         for(int i = 0;i < tickets.length;i++)queue.offer(i);

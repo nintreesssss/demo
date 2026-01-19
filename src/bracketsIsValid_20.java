@@ -9,7 +9,7 @@
 
 import java.util.Stack;
 
-public class bracketsIsValid {
+public class bracketsIsValid_20 {
     public boolean Solution(String s){
         Stack<Character> left = new Stack<>();
         for(char c : s.toCharArray()){

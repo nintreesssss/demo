@@ -3,7 +3,7 @@
 
 import java.util.HashSet;
 
-public class containsDuplicate {
+public class containsDuplicate_217 {
     public boolean Solution(int[] nums){
 
         HashSet<Integer> set = new HashSet<>();

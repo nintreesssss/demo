@@ -1,4 +1,4 @@
-//字符串转换整数 LeetCode 8
+//LeetCode 8:字符串转换整数 
 /*实现一个parseInt方法，将字符串转换成整数
 示例 1（正数）:
 输入: "42"
@@ -15,7 +15,7 @@
 示例 4（超出 int 范围）:
 输入: "91283472332"
 输出: 2147483647*/
-public class StringToInteger {
+public class StringToInteger_8 {
     public static void main(String[] args) {
         String str1 = "42";
         String str2 = "   -42";

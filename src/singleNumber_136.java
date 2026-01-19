@@ -5,7 +5,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class singleNumber {
+public class singleNumber_136 {
     public int Solution(int[] nums){
             Map<Integer,Integer> count = new HashMap<>();
             //遍历整个数组把num记录到哈希表用于计数 哈希表键值为数组里的元素 Value为出现的次数
