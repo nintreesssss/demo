@@ -15,6 +15,7 @@
 示例 4（超出 int 范围）:
 输入: "91283472332"
 输出: 2147483647*/
+package String;
 public class StringToInteger_8 {
     public static void main(String[] args) {
         String str1 = "42";
