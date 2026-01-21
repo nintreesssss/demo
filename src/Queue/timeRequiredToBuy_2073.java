@@ -1,5 +1,6 @@
 //LeetCode 2073:买票需要的时间
 
+package Queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
