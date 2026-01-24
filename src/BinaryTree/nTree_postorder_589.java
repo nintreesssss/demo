@@ -1,4 +1,4 @@
-//LeetCode 590
+//LeetCode 590：N叉树的后序遍历
 //https://leetcode.cn/problems/n-ary-tree-postorder-traversal/
 
 package BinaryTree;

@@ -1,4 +1,4 @@
-//LeetCode 589
+//LeetCode 589：N叉树的前序遍历
 //https://leetcode.cn/problems/n-ary-tree-preorder-traversal/
 
 package BinaryTree;
