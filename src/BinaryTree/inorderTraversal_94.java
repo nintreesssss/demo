@@ -6,7 +6,7 @@ package BinaryTree;
 import java.util.ArrayList;
 import java.util.List;
 
-public class inorderTraversal {
+public class inorderTraversal_94 {
     List<Integer> list = new ArrayList<>();
     public class TreeNode {
         int val;
